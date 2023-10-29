@@ -5,15 +5,15 @@ import photo3 from '../assets/four.jpg'
 
 function CampusIMG() {
   return (
-    <Carousel pause="false" fade interval="10000">
+    <Carousel pause="false" fade interval="10000" className='shadow-lg'>
       <Carousel.Item>
-        <img src={photo1} />
+        <img src={photo1} alt="placeholder"/>
       </Carousel.Item>
       <Carousel.Item>
-        <img src={photo2} />
+        <img src={photo2} alt="placeholder"/>
       </Carousel.Item>
       <Carousel.Item>
-        <img src={photo3} />
+        <img src={photo3} alt="placeholder"/>
       </Carousel.Item>
     </Carousel>
   );
