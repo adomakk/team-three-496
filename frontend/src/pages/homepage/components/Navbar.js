@@ -6,7 +6,7 @@ import { Nav } from 'react-bootstrap';
 function NavbarAGGIE() {
     return (
         <>
-        <Navbar sticky="top" className="shadow-lg" data-bs-theme="dark" expand="lg" style={{backgroundColor: '#0000b3' }}>
+        <Navbar id='nav-slide' sticky="top" className="shadow-lg" data-bs-theme="dark" expand="lg" style={{backgroundColor: '#0000b3' }}>
         <Container>
           <Navbar.Brand href="https://www.ncat.edu/index.php" className="justify-content-start">
             <img
