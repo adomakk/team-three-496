@@ -31,5 +31,5 @@ function NavbarAGGIE() {
     );
 }
 
-// Exports function to the main App.js file
+// Exports function to the Home.js file
 export default NavbarAGGIE;

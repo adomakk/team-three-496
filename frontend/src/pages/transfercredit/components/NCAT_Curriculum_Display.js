@@ -1,28 +1,16 @@
 import Guide from "../assets/NCAT_CS_Curriculum_Guide.pdf"
+import '../transferStyle.css';
 
-const ViewGuide = () => {
+/* Function that implements layout and .pdf viewer.
+ * References imported .css file in /transfercredits/assets/ folder and grabs the imported the .pdf files along with styling.
+*/
+function ViewGuide() {
     return (
-        <div style={styles.rectangle}>
-            <iframe title="NCAT_CS_Curriculum_Guide" src={Guide} style={styles.viewer}/>
+        <div id='rectangle'>
+            <iframe title="NCAT_CS_Curriculum_Guide" src={Guide} className='viewer'/>
         </div>
     );
 };
 
+// Exports function to the TransferCredit.js file
 export default ViewGuide;
-
-const styles = {
-    rectangle: {
-        width: '1920px',
-        height: '1050px',
-        backgroundColor: '#4d4d4d',
-        borderStyle: 'solid'
-    },
-
-    viewer: {  
-        width: "40%",
-        height: "1000px",
-        position: 'relative',
-        left: '500px',
-        top: '25px'
-    }
-}
