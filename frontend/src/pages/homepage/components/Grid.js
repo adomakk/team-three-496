@@ -4,6 +4,9 @@ import deadline from '../assets/stu_outside.jpg';
 import meet from '../assets/meetings.jpg';
 import '../homeStyle.css';
 
+/* Function that implements the layout of the page and the individual navigation cards.
+ * Ids and classNames are used to establish CSS from either the separate css file within homepage folder or built-in to the components.
+*/
 function LinkCards() {
   return (
     <>
@@ -62,4 +65,5 @@ function LinkCards() {
   );
 }
 
+// Exports function to the main App.js file
 export default LinkCards;
