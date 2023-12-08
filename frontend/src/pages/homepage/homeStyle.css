@@ -1,0 +1,89 @@
+#nav-slide {
+    animation: slideIn 2s;
+}
+
+@keyframes slideIn {
+    from {
+        margin-top: 100%
+    }
+
+    to {
+        margin-top: 0%
+    }
+}
+
+#panel {
+    position: relative;
+    top: 30px;
+    left: 150px;
+    width: 30rem;
+    height: 35rem;
+    box-shadow: 0 3px 7px 1px #c2c1c1;
+    transition: all 0.5s ease-out;
+}
+
+#panel:hover {
+    width: 31rem;
+    height: 36rem;
+}
+
+#layout {
+    display: block;
+    width: 1600px;
+    height: 1400px;
+    background-color: #FFFAFA;
+    margin: auto;
+    box-shadow: 0 0 20px 3px #262626;
+}
+
+#contact {
+    position: relative;
+    top: 30px;
+    left: 150px;
+    width: 30rem;
+    height: 35rem;
+    box-shadow: 0 3px 7px 1px #c2c1c1;
+    transition: all 0.5s ease-out;
+}
+
+#contact:hover {
+    width: 31rem;
+    height: 36rem;
+}
+
+h1 {
+    text-align: left;
+    position: relative;
+    margin-bottom: 50px;
+    left: 70px;
+    top: 35px;
+    font-weight: bold;
+    color: darkBlue;
+    text-shadow: 2px 2px 2px lightgray;
+    font-family: Gentium Book Plus;
+}
+
+.head-slide {
+    animation: leftSlide 3s;
+}
+
+@keyframes leftSlide {
+    from {
+        margin-left: 100%;
+        opacity: 0;
+    }
+
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    animation: fadeIn 5s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
