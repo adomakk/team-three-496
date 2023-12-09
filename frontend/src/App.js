@@ -3,6 +3,7 @@ import './App.css';
 import Home from './pages/Home';
 import Transfer from './pages/TransferCredit';
 import Meetings from './pages/Meetings.js';
+import Deadline from './pages/Deadline.js';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 /* Main function that allows user to go to the individual pages via typing in the url path.
@@ -18,7 +19,6 @@ function App() {
           <Route path="/transfer" element={<Transfer />} />
           <Route path="/faqs" element={<Deadline />} />
           <Route path="/meetings" element={<Meetings />} />
-          <Route path="/login" element={<Login />} />
         </Routes>
       </BrowserRouter>
 

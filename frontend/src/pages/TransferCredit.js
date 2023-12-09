@@ -94,8 +94,6 @@ export default function Tranfer() {
       return (
         <div style={{overflowX: 'hidden'}}>
             <NavbarAGGIE />
-            <br/>
-            <TransferLocate />
             <h1 style={{position: 'relative', right: '750px', color: 'DarkBlue', fontWeight: 'bold', textShadow: '2px 2px 2px lightgray'}}>Transfer Credits</h1>
             <br/>
             
@@ -213,6 +211,7 @@ export default function Tranfer() {
 
 };
 
+/*
 const dropdown_styles = {
     dropdown: {
         width: '50%',
@@ -225,9 +224,6 @@ const dropdown_styles = {
     }
 }
 
-
-
-/*
 export default function Transfer() { 
     return (
         <div style={{overflowX: 'hidden'}}>
