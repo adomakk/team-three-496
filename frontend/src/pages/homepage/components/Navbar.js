@@ -4,9 +4,13 @@ import logo from '../assets/3-stack-logo.png';
 import { Nav } from 'react-bootstrap';
 
 function NavbarAGGIE() {
-    return (
-        <>
-        <Navbar id='nav-slide' sticky="top" className="shadow-lg" data-bs-theme="dark" expand="lg" style={{backgroundColor: '#0000b3' }}>
+  return (
+    <
+      /* Navbar brand references an image of the NCAT logo and upon clicking on it, sends the user to the main website
+       * The Navbar also contains three links to the different pages of the website: Transfer Credits, Meetings, Deadlines.
+      */
+      >
+      <Navbar id='nav-slide' sticky="top" className="shadow-lg" data-bs-theme="dark" expand="lg" style={{ backgroundColor: '#0000b3' }}>
         <Container>
           <Navbar.Brand href="https://www.ncat.edu/index.php" className="justify-content-start">
             <img
@@ -18,12 +22,12 @@ function NavbarAGGIE() {
           <Nav className="justify-content-start">
             <Nav.Link href="/transfer">Transfer Credits</Nav.Link>
             <Nav.Link href="/meetings">Meetings</Nav.Link>
-            <Nav.Link href="/deadline">Deadlines</Nav.Link>
+            <Nav.Link href="/faqs">FAQs</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
-      </>
-    );
+    </>
+  );
 }
 
 export default NavbarAGGIE;
