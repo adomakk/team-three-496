@@ -1,0 +1,138 @@
+
+  [
+    {
+      "_id": 1,
+      "course name": "Explorations in Biology: Speci",
+      "course abbreviation": "BIOL 101",
+      "credit hours": 3,
+      "transfer_equivalent_id": 1
+    },
+    {
+      "_id": 2,
+      "course name": "Integrative Biol: Molecule/Cell",
+      "course abbreviation": "BIOL 111",
+      "credit hours": 4,
+      "transfer_equivalent_id": 2
+    },
+    {
+      "_id": 3,
+      "course name": "Integrtv Biol: Orgnsm, Ecol, E",
+      "course abbreviation": "BIOL 112",
+      "credit hours": 3,
+      "transfer_equivalent_id": 3
+    },
+    {
+        "_id": 4,
+        "course name": "CHEM 1 Lab",
+        "course abbreviation": "CHEM 110L",
+        "credit hours": 1,
+        "transfer_equivalent_id": 4
+    },
+    {
+        "_id": 5,
+        "course name": "Chem Principle I",
+        "course abbreviation": "CHEM 111",
+        "credit hours": 3,
+        "transfer_equivalent_id": 5
+    },
+    {
+        "_id": 6,
+        "course name": "Chem Principle 1",
+        "course abbreviation": "CHEM 111",
+        "credit hours": 1,
+        "transfer_equivalent_id": 6
+    },
+    {
+        "_id": 7,
+        "course name": "Chem Prin 1 Lab",
+        "course abbreviation": "CHEM 111L",
+        "credit hours": 1,
+        "transfer_equivalent_id": 7
+    },
+    {
+        "_id": 8,
+        "course name": "Macro",
+        "course abbreviation": "ECON 221",
+        "credit hours": 3,
+        "transfer_equivalent_id": 8
+    },
+    {
+        "_id": 9,
+        "course name": "Micro",
+        "course abbreviation": "ECON 222",
+        "credit hours": 3,
+        "transfer_equivalent_id": 9
+    },
+    {
+        "_id": 10,
+        "course name": "Writing Seminar",
+        "course abbreviation": "ENGL 101",
+        "credit hours": 3,
+        "transfer_equivalent_id": 10
+    },
+    {
+        "_id": 11,
+        "course name": "College Reading and Writing",
+        "course abbreviation": "ENGL 102",
+        "credit hours": 3,
+        "transfer_equivalent_id": 11
+    },
+    {
+        "_id": 12,
+        "course name": "US HIST II",
+        "course abbreviation": "HIST 104",
+        "credit hours": 3,
+        "transfer_equivalent_id": 12
+    },
+    {
+        "_id": 13,
+        "course name": "Calculus I",
+        "course abbreviation": "MATH 121",
+        "credit hours": 4,
+        "transfer_equivalent_id": 13
+    },
+    {
+        "_id": 14,
+        "course name": "Discrete Mathematics I",
+        "course abbreviation": "MATH 212",
+        "credit hours": 4,
+        "transfer_equivalent_id": 14
+    },
+    {
+        "_id": 15,
+        "course name": "Ethics",
+        "course abbreviation": "PHIL 111",
+        "credit hours": 4,
+        "transfer_equivalent_id": 15
+    },
+    {
+        "_id": 16,
+        "course name": "Management Info Systems",
+        "course abbreviation": "BUS 243",
+        "credit hours": 3,
+        "transfer_equivalent_id": 16
+    },
+    {
+        "_id": 17,
+        "course name": "Intro to Computer Programming",
+        "course abbreviation": "CTIS 210",
+        "credit hours": 3,
+        "transfer_equivalent_id": 17
+    },
+    {
+        "_id": 18,
+        "course name": "Amer Poli System",
+        "course abbreviation": "CTIS 210",
+        "credit hours": 3,
+        "transfer_equivalent_id": 18
+    },
+    {
+        "_id": 19,
+        "course name": "Intro to Sociology",
+        "course abbreviation": "SOAN 102",
+        "credit hours": 3,
+        "transfer_equivalent_id": 19
+    }
+
+
+  ]

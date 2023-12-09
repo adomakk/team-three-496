@@ -1,0 +1,422 @@
+[
+    {
+        "_id" : 1,
+        "name" : "Bachelor of Science (B.S.) - Agricultural and Environmental Systems (Agribusiness and Food Industry Management",
+        "curriculum_guide_path" : "curriculum-guides\\major-1.pdf",
+        "major_id": 1
+    },
+    {
+        "_id" : 2,
+        "name" : "Bachelor of Science (B.S.) - Agricultural Education -Ag Professional Service) (Secondary Education)",
+        "curriculum_guide_path" : "curriculum-guides\\major-2.pdf",
+        "major_id": 2
+    },
+    {
+        "_id" : 3,
+        "name" : "Master of Science (M.S.) - Agricultural Education (Professional Licensure)",
+        "curriculum_guide_path" : "curriculum-guides\\major-3.pdf",
+        "major_id": 3
+    }, 
+    {
+        "_id" : 4,
+        "name" : "Bachelor of Science (B.S.) - Animal Science",
+        "curriculum_guide_path" : "curriculum-guides\\major-4.pdf",
+        "major_id": 4
+    }, 
+    {
+        "_id" : 5,
+        "name" : "Bachelor of Science (B.S.) - Animal Science (Animal Industry)",
+        "curriculum_guide_path" : "curriculum-guides\\major-5.pdf",
+        "major_id": 5
+    }, 
+    {
+        "_id" : 6,
+        "name" : "Bachelor of Science (B.S.) - Laboratory Animal Science",
+        "curriculum_guide_path" : "curriculum-guides\\major-6.pdf",
+        "major_id": 6
+    }, 
+    {
+        "_id" : 7,
+        "name" : "Bachelor of Science (B.S.) - Child Development and Family Studies (Child Development and Family Relations)",
+        "curriculum_guide_path" : "curriculum-guides\\major-7.pdf",
+        "major_id": 7
+    },
+    {
+        "_id" : 8,
+        "name" : "Bachelor of Science (B.S.) - Family And Consumer Services (Fashion Merchandising & Design",
+        "curriculum_guide_path" : "curriculum-guides\\major-8.pdf",
+        "major_id": 8
+    },
+    {
+        "_id" : 9,
+        "name" : "Bachelor of Science (B.S.) - Family and Consumer Sciences (Consumer Science)",
+        "curriculum_guide_path" : "curriculum-guides\\major-9.pdf",
+        "major_id": 9
+    },
+    {
+        "_id" : 10,
+        "name" : "Bachelor of Science (B.S.) - Biological Engineering (Bioprocess Engineering Track)",
+        "curriculum_guide_path" : "curriculum-guides\\major-10.pdf",
+        "major_id": 10
+    },
+    {
+        "_id" : 11,
+        "name" : "Bachelor of Science (B.S.) - Agricultural and Environmental Systems, Concentration in Environmental Studies",
+        "curriculum_guide_path" : "curriculum-guides\\major-11.pdf",
+        "major_id": 11
+    },
+    {
+        "_id" : 12,
+        "name" : "Bachelor of Science (B.S.) - Landscape Architecture",
+        "curriculum_guide_path" : "curriculum-guides\\major-12.pdf",
+        "major_id": 12
+
+    },
+    {
+        "_id" : 13,
+        "name" : "Bachelor of Science (B.S.) - Criminal Justice",
+        "curriculum_guide_path" : "curriculum-guides\\major-13.pdf",
+        "major_id": 13
+    },
+    {
+        "_id" : 14,
+        "name" : "B.A. English Literature (Professional English)",
+        "curriculum_guide_path" : "curriculum-guides\\major-14.pdf",
+        "major_id": 14
+    },
+    {
+        "_id" : 15,
+        "name" : "B.A. English (African - American Literature)",
+        "curriculum_guide_path" : "curriculum-guides\\major-15.pdf",
+        "major_id": 15
+    },
+    {
+        "_id" : 16,
+        "name" : "B.A. English (Creative Writing)",
+        "curriculum_guide_path" : "curriculum-guides\\major-16.pdf",
+        "major_id": 16
+    },
+    {
+        "_id" : 17,
+        "name" : "B.A. History",
+        "curriculum_guide_path" : "curriculum-guides\\major-17.pdf",
+        "major_id": 17
+    },
+    {
+        "_id" : 18,
+        "name" : "B.A. Political Science",
+        "curriculum_guide_path" : "curriculum-guides\\major-18.pdf",
+        "major_id": 18
+    },
+    {
+        "_id" : 19,
+        "name" : "B.S. Journalism & Mass Communication (Mass Media Production)",
+        "curriculum_guide_path" : "curriculum-guides\\major-19.pdf",
+        "major_id": 19
+    },
+    {
+        "_id" : 20,
+        "name" : "B.S. Journalism & Mass Communication (Multimedia Journalism)",
+        "curriculum_guide_path" : "curriculum-guides\\major-20.pdf",
+        "major_id": 20
+    },
+    {
+        "_id" : 21,
+        "name" : "B.S. Journalism & Mass Communication (Public Relations)",
+        "curriculum_guide_path" : "curriculum-guides\\major-21.pdf",
+        "major_id": 21
+    },
+    {
+        "_id" : 22,
+        "name" : "B.A. Liberal Studies (African - American Studies)",
+        "curriculum_guide_path" : "curriculum-guides\\major-22.pdf",
+        "major_id": 22
+    },
+    {
+        "_id" : 23,
+        "name" : "B.A. Liberal Studies (Applied Cultural Thought)",
+        "curriculum_guide_path" : "curriculum-guides\\major-23.pdf",
+        "major_id": 23
+    },
+    {
+        "_id" : 24,
+        "name" : "B.A. Liberal Studies (Pre-Law)",
+        "curriculum_guide_path" : "curriculum-guides\\major-24.pdf",
+        "major_id": 24
+    },
+    {
+        "_id" : 25,
+        "name" : "B.A. Visual Arts, Design",
+        "curriculum_guide_path" : "curriculum-guides\\major-25.pdf",
+        "major_id": 25
+    },
+    {
+        "_id" : 26,
+        "name" : "B.F.A Professional Theatre)",
+        "curriculum_guide_path" : "curriculum-guides\\major-26.pdf",
+        "major_id": 26
+
+    },
+    {
+        "_id" : 27,
+        "name" : "B.A. Liberal Studies (Dance)",
+        "curriculum_guide_path" : "curriculum-guides\\major-27.pdf",
+        "major_id": 27
+    },
+    {
+        "_id" : 28,
+        "name" : "B.S. Accounting",
+        "curriculum_guide_path" : "curriculum-guides\\major-28.pdf",
+        "major_id": 28
+    },
+    {
+        "_id" : 29,
+        "name" : "B.S. Finance",
+        "curriculum_guide_path" : "curriculum-guides\\major-29.pdf",
+        "major_id": 29
+    },
+    {
+        "_id" : 30,
+        "name" : "B.S. - Business Information Technology (BIT)",
+        "curriculum_guide_path" : "curriculum-guides\\major-30.pdf",
+        "major_id": 30
+    },
+    {
+        "_id" : 31,
+        "name" : "B.S. Management - Management Information Systems Concentration",
+        "curriculum_guide_path" : "curriculum-guides\\major-31.pdf",
+        "major_id": 31
+    },
+    {
+        "_id" : 32,
+        "name" : "B.S. Economics",
+        "curriculum_guide_path" : "curriculum-guides\\major-32.pdf",
+        "major_id": 32
+    },
+    {
+        "_id" : 33,
+        "name" : "B.S. Economics - Economics Business Concentration",
+        "curriculum_guide_path" : "curriculum-guides\\major-33.pdf",
+        "major_id": 33
+    },
+    {
+        "_id" : 34,
+        "name" : "B.S. Management",
+        "curriculum_guide_path" : "curriculum-guides\\major-34.pdf",
+        "major_id": 34
+    },
+    {
+        "_id" : 35,
+        "name" : "B.S. Management - Business Adminstration Concentration",
+        "curriculum_guide_path" : "curriculum-guides\\major-35.pdf",
+        "major_id": 35
+    },
+    {
+        "_id" : 36,
+        "name" : "B.S. Marketing",
+        "curriculum_guide_path" : "curriculum-guides\\major-36.pdf",
+        "major_id": 36
+    },
+    {
+        "_id" : 37,
+        "name" : "B.S. Marketing Sales",
+        "curriculum_guide_path" : "curriculum-guides\\major-37.pdf",
+        "major_id": 37
+    },
+    {
+        "_id" : 38,
+        "name" : "B.S. Elementary Education",
+        "curriculum_guide_path" : "curriculum-guides\\major-38.pdf",
+        "major_id": 38
+    },
+    {
+        "_id" : 39,
+        "name" : "M.S. Mental health Counseling (CLincal Practice)",
+        "curriculum_guide_path" : "curriculum-guides\\major-39.pdf",
+        "major_id": 39
+    },
+    {
+        "_id" : 40,
+        "name" : "M.S. Mental Health Counseling (Rehabilitation",
+        "curriculum_guide_path" : "curriculum-guides\\major-40.pdf",
+        "major_id": 40
+
+    },
+    {
+        "_id" : 41,
+        "name" : "M.S. School Counseling",
+        "curriculum_guide_path" : "curriculum-guides\\major-41.pdf",
+        "major_id": 41
+    },
+    {
+        "_id" : 42,
+        "name" : "M.S. Adult Education",
+        "curriculum_guide_path" : "curriculum-guides\\major-42.pdf",
+        "major_id": 42
+    },
+    {
+        "_id" : 43,
+        "name" : "M.S.A. Master of School Adminstration",
+        "curriculum_guide_path" : "curriculum-guides\\major-43.pdf",
+        "major_id": 43
+    },
+    {
+        "_id" : 44,
+        "name" : "M.S. Bioengineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-44.pdf",
+        "major_id": 44
+    },
+    {
+        "_id" : 45,
+        "name" : "B.S. Chemical Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-45.pdf",
+        "major_id": 45
+    },
+    {
+        "_id" : 46,
+        "name" : "Civil Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-46.pdf",
+        "major_id": 46
+    },
+    {
+        "_id" : 47,
+        "name" : "Architectural Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-47.pdf",
+        "major_id": 47
+    },
+    {
+        "_id" : 48,
+        "name" : "Computer Scince",
+        "curriculum_guide_path" : "curriculum-guides\\major-48.pdf",
+        "major_id": 48
+    },
+    {
+        "_id" : 49,
+        "name" : "M.S. in Data Science and Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-49.pdf",
+        "major_id": 49
+    },
+    {
+        "_id" : 50,
+        "name" : "B.S. Electrical Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-50.pdf",
+        "major_id": 50
+    },
+    {
+        "_id" : 51,
+        "name" : "B.S. Computer Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-51.pdf",
+        "major_id": 51
+    },
+    {
+        "_id" : 52,
+        "name" : "B.S. Industrial and Systems Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-52.pdf",
+        "major_id": 52
+    },
+    {
+        "_id" : 53,
+        "name" : "B.S. Mechanical Engineering",
+        "curriculum_guide_path" : "curriculum-guides\\major-53.pdf",
+        "major_id": 53
+    },
+    {
+        "_id" : 54,
+        "name" : "B.S. Health Services Management",
+        "curriculum_guide_path" : "curriculum-guides\\major-54.pdf",
+        "major_id": 54
+    },
+    {
+        "_id" : 55,
+        "name" : "B.S. Kinesiology",
+        "curriculum_guide_path" : "curriculum-guides\\major-55.pdf",
+        "major_id": 55
+    },
+    {
+        "_id" : 56,
+        "name" : "B.S. Nursing (ABSN)",
+        "curriculum_guide_path" : "curriculum-guides\\major-56.pdf",
+        "major_id": 56
+    },
+    {
+        "_id" : 57,
+        "name" : "B.S. Nursing (Traditional)",
+        "curriculum_guide_path" : "curriculum-guides\\major-57.pdf",
+        "major_id": 57
+    },
+    {
+        "_id" : 58,
+        "name" : "B.S. Arts in Speech Communications",
+        "curriculum_guide_path" : "curriculum-guides\\major-58.pdf",
+        "major_id": 58
+    },
+    
+    {
+        "_id" : 61,
+        "name" : "B.A. Psychology",
+        "curriculum_guide_path" : "curriculum-guides\\major-61.pdf",
+        "major_id": 61
+    },
+    
+    {
+        "_id" : 63,
+        "name" : "B.S. Social Work",
+        "curriculum_guide_path" : "curriculum-guides\\major-63.pdf",
+        "major_id": 63
+    },
+    {
+        "_id" : 64,
+        "name" : "B.A. Sociology",
+        "curriculum_guide_path" : "curriculum-guides\\major-64.pdf",
+        "major_id": 64
+    },
+    {
+        "_id" : 65,
+        "name" : "Master of Social Work (MSW)",
+        "curriculum_guide_path" : "curriculum-guides\\major-65.pdf",
+        "major_id": 65
+    },
+    {
+        "_id" : 66,
+        "name" : "B.S. Applied Engineering Technology",
+        "curriculum_guide_path" : "curriculum-guides\\major-66.pdf",
+        "major_id": 66
+    },
+    {
+        "_id" : 67,
+        "name" : "PH.D. Applied Science and Technology",
+        "curriculum_guide_path" : "curriculum-guides\\major-67.pdf",
+        "major_id": 67
+    },
+    {
+        "_id" : 68,
+        "name" : "B.S. Biology",
+        "curriculum_guide_path" : "curriculum-guides\\major-68.pdf",
+        "major_id": 68
+    },
+    {
+        "_id" : 69,
+        "name" : "Construction Management",
+        "curriculum_guide_path" : "curriculum-guides\\major-69.pdf",
+        "major_id": 69
+    },
+    {
+        "_id" : 70,
+        "name" : "Environmental Heralth and Safety (EHS)",
+        "curriculum_guide_path" : "curriculum-guides\\major-70.pdf",
+        "major_id": 70
+    },
+    
+    {
+        "_id" : 72,
+        "name" : "B.S. Electronics Technology",
+        "curriculum_guide_path" : "curriculum-guides\\major-72.pdf",
+        "major_id": 72
+    },
+    {
+        "_id" : 73,
+        "name" : "B.S. Information Technology",
+        "curriculum_guide_path" : "curriculum-guides\\major-73.pdf",
+        "major_id": 73
+    }
+]

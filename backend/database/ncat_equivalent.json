@@ -1,0 +1,118 @@
+[
+    {
+      "_id": 1,
+      "course name": "Introduction to Research",
+      "course abbreviation": "BIOL 200",
+      "credit hours": 3
+    },
+    {
+      "_id": 2,
+      "course name": "Biological Science",
+      "course abbreviation": "BIOL 100",
+      "credit hours": 4
+    },
+    {
+      "_id": 3,
+      "course name": "Biological Science",
+      "course abbreviation": "BIOL 100",
+      "credit hours": 4
+    },
+    {
+        "_id": 4,
+        "course name": "General Chemistry VI Lab",
+        "course abbreviation": "CHEM 116",
+        "credit hours": 1
+    },
+    {
+        "_id": 5,
+        "course name": "General Chemistry VI",
+        "course abbreviation": "CHEM 106",
+        "credit hours": 3
+    },
+    {
+        "_id": 6,
+        "course name": "General Chemistry VI Lab",
+        "course abbreviation": "CHEM 116",
+        "credit hours": 1
+    },
+    {
+        "_id": 7,
+        "course name": "General Chemistry VI Lab",
+        "course abbreviation": "CHEM 116",
+        "credit hours": 1
+    },
+    {
+        "_id": 8,
+        "course name": "Principles of Economics-MACRO",
+        "course abbreviation": "ECON 201",
+        "credit hours": 3
+    },
+    {
+        "_id": 9,
+        "course name": "Principle of Economics-Micro",
+        "course abbreviation": "ECON 200",
+        "credit hours": 3
+    },
+    {
+        "_id": 10,
+        "course name": "Ideas & Their Expressinos I",
+        "course abbreviation": "ENGL 100",
+        "credit hours": 3
+    },
+    {
+        "_id": 11,
+        "course name": "Ideas & Their Expressinos II",
+        "course abbreviation": "ENGL 101",
+        "credit hours": 3
+    },
+    {
+        "_id": 12,
+        "course name": "American History Since 1877",
+        "course abbreviation": "HIST 205",
+        "credit hours": 3
+    },
+    {
+        "_id": 13,
+        "course name": "Calculus I",
+        "course abbreviation": "MATH 131",
+        "credit hours": 4
+    },
+    {
+        "_id": 14,
+        "course name": "Discrete Mathematic I",
+        "course abbreviation": "MATH 123",
+        "credit hours": 3
+    },
+    {
+        "_id": 15,
+        "course name": "Introduction to Ethics",
+        "course abbreviation": "PHIL 104",
+        "credit hours": 3
+    },
+    {
+        "_id": 16,
+        "course name": "Intro to Manage Information System",
+        "course abbreviation": "MGMT 132",
+        "credit hours": 3
+    },
+    {
+        "_id": 17,
+        "course name": "Intro Computer Programming",
+        "course abbreviation": "COMP 163",
+        "credit hours": 3
+    },
+    {
+        "_id": 18,
+        "course name": "Amer Government & Politics",
+        "course abbreviation": "POLI 110",
+        "credit hours": 3
+    },
+    {
+        "_id": 19,
+        "course name": "Principles of Sociology",
+        "course abbreviation": "SOCI 100",
+        "credit hours": 3
+    }
+    
+  ]
+  
