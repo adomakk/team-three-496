@@ -1,0 +1,30 @@
+#dropdown {
+    width: 50%;
+    position: relative;
+    left: 100px;
+    background-color: #ffe680;
+    border-color: #cca300;
+    border-style: solid;
+    text-align: center;
+}
+
+#rectangle {
+        width: 1920px;
+        height: 1050px;
+        background-color: #4d4d4d;
+        border-style: solid;
+}
+
+.viewer {  
+        width: 40%;
+        height: 1000px;
+        position: relative;
+        left: 500px;
+        top: 25px;
+}
+
+.transfercrumb {
+        font-size: 20;
+        position: relative;
+        left: 20px;
+}

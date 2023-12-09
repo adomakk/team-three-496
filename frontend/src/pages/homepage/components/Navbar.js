@@ -23,13 +23,13 @@ function NavbarAGGIE() {
           <Nav className="justify-content-start">
             <Nav.Link href="/transfer">Transfer Credits</Nav.Link>
             <Nav.Link href="/meetings">Meetings</Nav.Link>
-            <Nav.Link href="/deadline">Deadlines</Nav.Link>
+            <Nav.Link href="/faqs">FAQs</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
-      </>
-    );
+    </>
+  );
 }
 
-// Exports function to the main App.js file
+// Exports function to the Home.js file
 export default NavbarAGGIE;

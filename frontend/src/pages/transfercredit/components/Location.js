@@ -1,9 +1,12 @@
 import Breadcrumb from 'react-bootstrap/Breadcrumb';
 import { Link } from 'react-router-dom';
+import '../transferStyle.css';
 
-export default function TransferLocate() {
+// Function that implements navigation text to the page.
+function TransferLocate() {
     return (
-        <div style={styles.transfercrumb}>
+        // References imported .css file for styling via "transfercrumb" class name.
+        <div className='transfercrumb'>
         <Breadcrumb>
             <Breadcrumb.Item linkAs={Link} linkProps={{ to: "/"}} >Transfer Student Portal</Breadcrumb.Item>
             <Breadcrumb.Item active>Transfer Credits</Breadcrumb.Item>
@@ -12,10 +15,5 @@ export default function TransferLocate() {
     );
 };
 
-const styles = {
-    transfercrumb: {
-        fontSize: 20,
-        position: 'relative',
-        left: '20px'
-    }
-}
+// Exports function to the TransferCredit.js file
+export default TransferLocate;

@@ -31,7 +31,7 @@ function LinkCards() {
                                 <Card.Text>
                                     View available meeting times and setup appointments with our admission advisors.
                                 </Card.Text>
-                            <Button href="/Meetings" variant="outline-warning" className="stretched-link" size="lg">View Now</Button>
+                            <Button href="/meetings" variant="outline-warning" className="stretched-link" size="lg">View Now</Button>
                         </CardBody>
                     </Card>
                 </Stack>
@@ -47,7 +47,7 @@ function LinkCards() {
                                 <Card.Text>
                                     View our Frequently-Asked Questions to see common questions pertaining to transferring to Aggie Land.
                                 </Card.Text>
-                            <Button href="/deadline" variant="outline-warning" className="stretched-link" size="lg">Read More</Button>
+                            <Button href="/faqs" variant="outline-warning" className="stretched-link" size="lg">Read More</Button>
                         </CardBody>
                     </Card>
                     <Card className='fade-in' id='contact' bg = "warning" border="secondary">
@@ -65,5 +65,5 @@ function LinkCards() {
   );
 }
 
-// Exports function to the main App.js file
+// Exports function to the Home.js file
 export default LinkCards;
