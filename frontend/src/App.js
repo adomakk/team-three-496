@@ -2,9 +2,7 @@ import React from 'react';
 import './App.css';
 import Home from './pages/Home';
 import Transfer from './pages/TransferCredit';
-import Deadline from './pages/Deadline.js';
 import Meetings from './pages/Meetings.js';
-import Login from './pages/LogIn.js';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 /* Main function that allows user to go to the individual pages via typing in the url path.

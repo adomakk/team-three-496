@@ -1,0 +1,207 @@
+[
+    {
+        "_id" : 1,
+        "name" : "Department of Agribusiness, Applied Economics and Agriscience Education",
+        "college_id" : 1
+    }, 
+    {
+        "_id" : 2,
+        "name" : "Department of Animal Sciences",
+        "college_id" : 1
+    }, 
+    {
+        "_id" : 3,
+        "name" : "Department of Family and Consumer Sciences",
+        "college_id" : 1
+    }, 
+    {
+        "_id" : 4,
+        "name" : "Department of Natural Resources and Environmental Design",
+        "college_id" : 1
+    }, 
+    {
+        "_id" : 5,
+        "name" : "Criminal Justice",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 6,
+        "name" : "English",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 7,
+        "name" : "History & Political Science",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 8,
+        "name" : "Journalism & Mass Communication",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 9,
+        "name" : "Liberal Studies",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 10,
+        "name" : "Visual & Performing Arts/Theater & Dance",
+        "college_id" : 2
+    }, 
+    {
+        "_id" : 11,
+        "name" : "Accounting and Finance",
+        "college_id" : 3
+    }, 
+    {
+        "_id" : 12,
+        "name" : "Business Information Systems and Analytics",
+        "college_id" : 3
+    }, 
+    {
+        "_id" : 13,
+        "name" : "Economics",
+        "college_id" : 3
+    }, 
+    {
+        "_id" : 14,
+        "name" : "Management",
+        "college_id" : 3
+    }, 
+    {
+        "_id" : 15,
+        "name" : "Marketing and Supply Chain Management",
+        "college_id" : 3
+    }, 
+    {
+        "_id" : 16,
+        "name" : "Department of Educator Preparation",
+        "college_id" : 4
+    }, 
+    {
+        "_id" : 17,
+        "name" : "Department of Counseling",
+        "college_id" : 4
+    }, 
+    {
+        "_id" : 18,
+        "name" : "Department of Leadership Studies, Adult Education",
+        "college_id" : 4
+    }, 
+    {
+        "_id" : 19,
+        "name" : "Chemical, Biological, and Bio Engineering (CBBE)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 20,
+        "name" : "Civil, Architectural and Environmental Engineering (CAEE)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 21,
+        "name" : "Computer Science (CS)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 22,
+        "name" : "Computational Data Science and Engineering (CDSE)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 23,
+        "name" : "Electrical and Computer Engineering (ECE)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 24,
+        "name" : "Industrial and Systems Engineering (ISE)",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 25,
+        "name" : "Mechanical Engineering",
+        "college_id" : 5
+    }, 
+    {
+        "_id" : 26,
+        "name" : "Department Health Services Management",
+        "college_id" : 6
+    }, 
+    {
+        "_id" : 27,
+        "name" : "Department of Kinesiology",
+        "college_id" : 6
+    }, 
+    {
+        "_id" : 28,
+        "name" : "School of Nursing",
+        "college_id" : 6
+    }, 
+    {
+        "_id" : 29,
+        "name" : "Department of Communication Sciences and Disorders",
+        "college_id" : 6
+    }, 
+    {
+        "_id" : 30,
+        "name" : "Department of Physician Assistant Studies",
+        "college_id" : 6
+    },
+    {
+        "_id" : 31,
+        "name" : "Department of Psychology",
+        "college_id" : 6
+    },
+    {
+        "_id" : 32,
+        "name" : "Department of Social Work and Sociology",
+        "college_id" : 6
+    },
+    {
+        "_id" : 33,
+        "name" : "Graduate Programs",
+        "college_id" : 6
+    },
+    {
+        "_id" : 34,
+        "name" : "Applied Engineering Technology",
+        "college_id" : 7
+    },
+    {
+        "_id" : 35,
+        "name" : "Applied Science and Technology PhD Program",
+        "college_id" : 7
+    },
+    {
+        "_id" : 36,
+        "name" : "Biology",
+        "college_id" : 7
+    },
+    {
+        "_id" : 37,
+        "name" : "Built Environment",
+        "college_id" : 7
+    },
+    {
+        "_id" : 38,
+        "name" : "Chemistry",
+        "college_id" : 7
+    },
+    {
+        "_id" : 39,
+        "name" : "Computer Systems Technology",
+        "college_id" : 7
+    },
+    {
+        "_id" : 40,
+        "name" : "Mathematics and Statistics",
+        "college_id" : 7
+    },{
+        "_id" : 41,
+        "name" : "Physics",
+        "college_id" : 7
+    }
+
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "_id": 1,
+        "name": "College of Agricultural and Environmental Sciences"
+    },
+    {
+        "_id": 2,
+        "name": "College of Arts, Humanities and Social Sciences"
+
+    },
+    {
+        "_id": 3,
+        "name": "Willie A. Deese College of Business and Economics"
+
+    },
+    {
+        "_id": 4,
+        "name": "College of Education"
+
+    },
+    {
+        "_id": 5,
+        "name": "College of Engineering"
+
+    },
+    {
+        "_id": 6,
+        "name": "John R. and Kathy R. Hairston Collge of Health and Human Sciences"
+
+    },
+    {
+        "_id": 7,
+        "name": "College of Science and Technology"
+
+    }
+]
