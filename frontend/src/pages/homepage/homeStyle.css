@@ -63,6 +63,19 @@ h1 {
     font-family: Gentium Book Plus;
 }
 
+.h1-v2 h1 {
+    text-align: left;
+    position: relative;
+    margin-bottom: 0px;
+    left: 0px;
+    top: 0px;
+    font-weight: bold;
+    color: darkBlue;
+    text-shadow: 2px 2px 2px lightgray;
+    font-family: Gentium Book Plus;
+}
+
+
 .head-slide {
     animation: leftSlide 3s;
 }
@@ -84,6 +97,11 @@ h1 {
 }
 
 @keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
