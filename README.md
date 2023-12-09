@@ -7,3 +7,6 @@ database/transfer-credit.json - stores other colleges/universities' course names
 database/ncat-equivalent.json - stores the NCAT equivalent of what the transfer courses will be. 
 
 Once a comparison is done in the database and a match is found, another comparison will happen by comparing the match to the curriculum guide. It will then print that match to show the user the course that transfers over to NCAT and if that course applies to the curriculum guide selected.
+
+## User Manual
+[User Manual Link](https://www.example.com)
